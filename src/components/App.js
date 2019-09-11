@@ -17,7 +17,18 @@ class App extends Component {
     })
   }
 
-  
+  submitFood = () => {
+    this.props.store.dispatch(addRecipe({
+      day: 'monday',
+      meal: 'breakfast',
+      recipe: {
+        label: this.input.value
+      },
+    }))
+
+    this.input.value = ''
+  }
+
   render() {
     return (
       <div>
