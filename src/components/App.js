@@ -3,6 +3,21 @@ import { addRecipe } from '../actions'
 
 
 class App extends Component {
+
+  state = {
+    calendar: null
+  }
+  componentDidMount () {
+    const { store } = this.props
+
+    store.subscribe(() => {
+      this.setState(() => ({
+        calendar: store.getState()
+      }))
+    })
+  }
+
+  
   render() {
     return (
       <div>
