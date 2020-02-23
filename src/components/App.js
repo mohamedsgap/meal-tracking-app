@@ -73,7 +73,7 @@ class App extends Component {
     return (
       <div className='container'>
           <div className='nav'>
-            <h1 className='header'>Track Your Meal :)</h1>
+            <h1 className='header'>Track Your Meal <span role="img" aria-label="accessibale emoji">🍔 🍟</span> </h1>
             <button
               className='shopping-list'
               onClick={this.openIngredientsModal}>
