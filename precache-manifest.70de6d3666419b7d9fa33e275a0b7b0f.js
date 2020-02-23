@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "723a7a5448e8c5af419ec73efdb76c55",
+    "revision": "d55f90e56c72e32c5d5c8b20c5648f6c",
     "url": "/meal-tracking-app/index.html"
   },
   {
-    "revision": "52607f0fc8920268aa9f",
-    "url": "/meal-tracking-app/static/css/main.953dda45.chunk.css"
+    "revision": "fd26c3154a69d12b6801",
+    "url": "/meal-tracking-app/static/css/main.10ddf3ac.chunk.css"
   },
   {
     "revision": "66959d26153bb28be458",
     "url": "/meal-tracking-app/static/js/2.7a92544f.chunk.js"
   },
   {
-    "revision": "52607f0fc8920268aa9f",
-    "url": "/meal-tracking-app/static/js/main.847b84f7.chunk.js"
+    "revision": "fd26c3154a69d12b6801",
+    "url": "/meal-tracking-app/static/js/main.7ead3e65.chunk.js"
   },
   {
     "revision": "757dd48f982ad936b7c7",

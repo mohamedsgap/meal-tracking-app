@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/meal-tracking-app/precache-manifest.2021a301e206af02b9d9b22ff8ffe774.js"
+  "/meal-tracking-app/precache-manifest.70de6d3666419b7d9fa33e275a0b7b0f.js"
 );
 
 self.addEventListener('message', (event) => {

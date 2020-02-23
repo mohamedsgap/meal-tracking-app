@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/meal-tracking-app/static/css/main.953dda45.chunk.css",
-    "main.js": "/meal-tracking-app/static/js/main.847b84f7.chunk.js",
-    "main.js.map": "/meal-tracking-app/static/js/main.847b84f7.chunk.js.map",
+    "main.css": "/meal-tracking-app/static/css/main.10ddf3ac.chunk.css",
+    "main.js": "/meal-tracking-app/static/js/main.7ead3e65.chunk.js",
+    "main.js.map": "/meal-tracking-app/static/js/main.7ead3e65.chunk.js.map",
     "runtime~main.js": "/meal-tracking-app/static/js/runtime~main.cf29c52e.js",
     "runtime~main.js.map": "/meal-tracking-app/static/js/runtime~main.cf29c52e.js.map",
     "static/js/2.7a92544f.chunk.js": "/meal-tracking-app/static/js/2.7a92544f.chunk.js",
     "static/js/2.7a92544f.chunk.js.map": "/meal-tracking-app/static/js/2.7a92544f.chunk.js.map",
     "index.html": "/meal-tracking-app/index.html",
-    "precache-manifest.2021a301e206af02b9d9b22ff8ffe774.js": "/meal-tracking-app/precache-manifest.2021a301e206af02b9d9b22ff8ffe774.js",
+    "precache-manifest.70de6d3666419b7d9fa33e275a0b7b0f.js": "/meal-tracking-app/precache-manifest.70de6d3666419b7d9fa33e275a0b7b0f.js",
     "service-worker.js": "/meal-tracking-app/service-worker.js",
-    "static/css/main.953dda45.chunk.css.map": "/meal-tracking-app/static/css/main.953dda45.chunk.css.map"
+    "static/css/main.10ddf3ac.chunk.css.map": "/meal-tracking-app/static/css/main.10ddf3ac.chunk.css.map"
   }
 }
